@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "397055614708",
+    "firebase_url": "https://walkingroutes-886d8.firebaseio.com",
+    "project_id": "walkingroutes",
+    "storage_bucket": "walkingroutes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397055614708:android:4565c211ebf2e8627508a1",
+        "android_client_info": {
+          "package_name": "its.uis.uis_walking_routes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397055614708-48e0en1v9tq6ohcuvle8qtbaakf0v8lu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnApt3dOK3nIHCWXC6LrKgaKYBylO4d2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397055614708-48e0en1v9tq6ohcuvle8qtbaakf0v8lu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
